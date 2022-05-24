@@ -1,0 +1,17 @@
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\bin\Debug\netcoreapp2.1\Configuration.json
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\bin\Debug\netcoreapp2.1\APIGateV01.deps.json
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\bin\Debug\netcoreapp2.1\APIGateV01.runtimeconfig.json
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\bin\Debug\netcoreapp2.1\APIGateV01.runtimeconfig.dev.json
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\bin\Debug\netcoreapp2.1\APIGateV01.dll
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\bin\Debug\netcoreapp2.1\APIGateV01.pdb
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\obj\Debug\netcoreapp2.1\APIGateV01.csproj.AssemblyReference.cache
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\obj\Debug\netcoreapp2.1\APIGateV01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\obj\Debug\netcoreapp2.1\APIGateV01.AssemblyInfoInputs.cache
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\obj\Debug\netcoreapp2.1\APIGateV01.AssemblyInfo.cs
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\obj\Debug\netcoreapp2.1\APIGateV01.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\obj\Debug\netcoreapp2.1\APIGateV01.RazorAssemblyInfo.cache
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\obj\Debug\netcoreapp2.1\APIGateV01.RazorAssemblyInfo.cs
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\obj\Debug\netcoreapp2.1\APIGateV01.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\obj\Debug\netcoreapp2.1\APIGateV01.dll
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\obj\Debug\netcoreapp2.1\APIGateV01.pdb
+C:\Users\cogdotnet43\source\repos\APIGateV01\APIGateV01\obj\Debug\netcoreapp2.1\APIGateV01.genruntimeconfig.cache
